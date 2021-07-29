@@ -4,6 +4,7 @@ import Router from './routes';
 import ThemeConfig from './theme';
 // components
 import ScrollToTop from './components/ScrollToTop';
+import LoginSeller from './pages/seller/pageSeller/LoginSeller';
 
 // ----------------------------------------------------------------------
 
